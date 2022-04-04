@@ -1,2 +1,2 @@
 # SimpleHttpClient
-Простой http клиент на база System.Net.Http.HttpClient.
+Простой http клиент на базе System.Net.Http.HttpClient.
